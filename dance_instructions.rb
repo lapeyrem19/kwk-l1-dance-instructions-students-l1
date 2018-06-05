@@ -46,4 +46,9 @@ base_footwork
 bob_the_reins
 skip_step_left
 skip_step_right
-puts ""
+puts "Repeat seven more times"
+lasso
+skip_step_left
+skip_step_right
+puts "Repeast seven more times"
+
