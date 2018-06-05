@@ -3,6 +3,7 @@ puts "Plant legs far apart, bend knees slightly and keep posture loose."
 end
 
 
+
 def base_footwork
   puts "Lift right foot"
   puts "Return right foot to the ground"
@@ -21,6 +22,7 @@ def skip_step_right
   puts "Lower right foot to the ground"
   puts "Bounce right foot back up slightly, kicking it a few inches back"
   puts "Right, Left, Right and Right"
+  puts "Repeat seven times"
 end
 
 def bob_the_reins
@@ -40,14 +42,17 @@ def bust_a_move
   puts "Be snazzy"
 end
 
+
+def gangnam_style
 assume_stance
 bust_a_move
 base_footwork
 bob_the_reins
 skip_step_left
 skip_step_right
-puts "Repeat seven more times"
 lasso
 skip_step_left
 skip_step_right
-puts "Repeast seven more times"
+end
+
+gangnam_style
