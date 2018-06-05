@@ -4,7 +4,7 @@ end
 
 
 def base_footwork
-  puts "Lift right foot
+  puts "Lift right foot"
   puts "Return right foot to the ground"
 puts "Finishing with a small skip-step backward
 end
@@ -51,4 +51,3 @@ lasso
 skip_step_left
 skip_step_right
 puts "Repeast seven more times"
-
